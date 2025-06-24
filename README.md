@@ -19,11 +19,15 @@
   <details>
     <summary>Stats</summary>
     <br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anadichauhan&show_icons=true&count_private=true&hide=issues,stars&theme=dark&hide_border=true&bg_color=00000000"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadichauhan&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=00000000"/><br>
 </div>
+<br>
+<h3>
+</p>
+</details>
 
-----------
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
