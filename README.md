@@ -40,7 +40,7 @@
 </details>
 
 <details>
-    <summary>Top Contributed Repository</summary>
+    <summary>Top Contributed Repositories</summary>
     <br> 
 
 ![](https://github-contributor-stats.vercel.app/api?username=anadichauhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
